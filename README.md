@@ -30,6 +30,7 @@
 | Task-Oriented Mulsemedia Communication using Unified Perceiver and Conformal Prediction in 6G Metaverse Systems | <https://arxiv.org/abs/2405.08949> |
 | Hearing Touch: Audio-Visual Pretraining for Contact-Rich Manipulation | <https://arxiv.org/abs/2405.08576> |
 | Multi-modal perception for soft robotic interactions using generative models | <https://arxiv.org/abs/2404.04220> |
+| MultiPLY: A Multisensory Object-Centric Embodied Large Language Model in 3D World | <https://arxiv.org/abs/2401.08577> |
 
 
 
@@ -38,6 +39,7 @@
 | Title | Paper |
 |------|-------|
 | Active Exploration for Real-Time Haptic Training | <https://arxiv.org/abs/2405.11776> |
+| Binding Touch to Everything: Learning Unified Multimodal Tactile Representations | <https://arxiv.org/abs/2401.18084> |
 
 ### Fabric Tactile Sensation
 | Title | Paper |
