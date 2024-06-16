@@ -4,6 +4,13 @@
 |------|-------|
 | Design of a High-Performance Tomographic Tactile Sensor by Manipulating the Detector Conductivity | <https://arxiv.org/abs/2406.00978> |
 | Optimizing Multi-Touch Textile and Tactile Skin Sensing Through Circuit Parameter Estimation | <https://arxiv.org/abs/2404.15131> |
+| RoTipBot: Robotic Handling of Thin and Flexible Objects using Rotatable Tactile Sensors | <https://arxiv.org/abs/2406.09332> |
+| Automatic Calibration for an Open-source Magnetic Tactile Sensor | <https://arxiv.org/abs/2405.18582> |
+| BeadSight: An Inexpensive Tactile Sensor Using Hydro-Gel Beads | <https://arxiv.org/abs/2405.13204> |
+| BeadSight: An Inexpensive Tactile Sensor Using Hydro-Gel Beads | <https://arxiv.org/abs/2405.13204> |
+| Optimizing BioTac Simulation for Realistic Tactile Perception | <https://arxiv.org/abs/2404.10425> |
+| A Novel Bioinspired Neuromorphic Vision-based Tactile Sensor for Fast Tactile Perception | <https://arxiv.org/abs/2403.10120> |
+
 
 ## Dataset
 | Title | Paper |
@@ -11,6 +18,8 @@
 | Tactile-Augmented Radiance Fields | <https://arxiv.org/abs/2405.04534> |
 | Learning Visuotactile Skills with Two Multifingered Hands | <https://arxiv.org/abs/2404.16823> |
 | PseudoTouch: Efficiently Imaging the Surface Feel of Objects for Robotic Manipulation | <https://arxiv.org/abs/2403.15107> |
+| Octopi: Object Property Reasoning with Large Tactile-Language Models | <https://arxiv.org/abs/2405.02794> |
+
 
 
 ## Application
@@ -37,26 +46,46 @@
 | Pinching Tactile Display: A Cloth that Changes Tactile Sensation by Electrostatic Adsorption | <https://arxiv.org/abs/2405.03358> |
 | What Matters for Active Texture Recognition With Vision-Based Tactile Sensors | <https://arxiv.org/abs/2403.13701> |
 
-### object recognition
+### Object Recognition
 | Title | Paper |
 |------|-------|
 | Imagine2touch: Predictive Tactile Sensing for Robotic Manipulation using Efficient Low-Dimensional Signals | <https://arxiv.org/abs/2405.01192> |
+| Visuo-Tactile based Predictive Cross Modal Perception for Object Exploration in Robotics | <https://arxiv.org/abs/2405.12634> |
 
-### geometry reconstructions
+### Tactile Texture Recognition
+| Title | Paper |
+|------|-------|
+| An Active Learning Framework with a Class Balancing Strategy for Time Series Classification | <https://arxiv.org/abs/2405.12122> |
+
+### Action Classification
+| Title | Paper |
+|------|-------|
+| Jointly Modeling Spatio-Temporal Features of Tactile Signals for Action Classification | <https://arxiv.org/abs/2404.15279> |
+
+### Stable Object Placing
+| Title | Paper |
+|------|-------|
+| Stable Object Placing using Curl and Diff Features of Vision-based Tactile Sensors | <https://arxiv.org/abs/2403.19129> |
+
+
+### Geometry Reconstructions
 | Title | Paper |
 |------|-------|
 | Snap-it, Tap-it, Splat-it: Tactile-Informed 3D Gaussian Splatting for Reconstructing Challenging Surfaces | <https://arxiv.org/abs/2403.20275> |
 
-### tactile-based gesture recognition
+### Tactile-based Gesture Recognition
 | Title | Paper |
 |------|-------|
 | Advancements in Tactile Hand Gesture Recognition for Enhanced Human-Machine Interaction | <https://arxiv.org/abs/2405.17038> |
+| Advancements in Tactile Hand Gesture Recognition for Enhanced Human-Machine Interaction | <https://arxiv.org/abs/2405.17038> |
+| Application of Artificial Intelligence in Hand Gesture Recognition with Virtual Reality: Survey and Analysis of Hand Gesture Hardware Selection | <https://arxiv.org/abs/2405.16264> |
 
 ### Object Manipulation
 | Title | Paper |
 |------|-------|
 | Low-Cost Teleoperation with Haptic Feedback through Vision-based Tactile Sensors for Rigid and Soft Object Manipulation | <https://arxiv.org/abs/2403.16764> |
 | Visuo-Tactile Pretraining for Cable Plugging | <https://arxiv.org/abs/2403.11898> |
+| Visuo-Tactile Keypoint Correspondences for Object Manipulation | <https://arxiv.org/abs/2405.14515> |
 
 ### In-Hand Object Rotation
 | Title | Paper |
@@ -68,7 +97,7 @@
 |------|-------|
 | Generalize by Touching: Tactile Ensemble Skill Transfer for Robotic Furniture Assembly | <https://arxiv.org/abs/2404.17684> |
 
-### tactile torque estimation
+### Tactile Torque Estimation
 | Title | Paper |
 |------|-------|
 | An Electromagnetism-Inspired Method for Estimating In-Grasp Torque from Visuotactile Sensors | <https://arxiv.org/abs/2404.15626> |
