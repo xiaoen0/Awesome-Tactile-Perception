@@ -13,7 +13,8 @@
 ## Data Collection
 - **Active Exploration for Real-Time Haptic Training**<br>
 [ICRA 2024] [[paper](https://arxiv.org/abs/2405.11776)]<br>
-**Goal**: Focusing on only the most informative aspects of an object during data collection.<br>**Method:** We demonstrate our `active learning approach` using `a biomimentic sensor`, exploring `“tactile scenes” composed of shapes, textures, and objects`.
+**Goal**: Focusing on only the most informative aspects of an object during data collection.<br>
+**Method:** We demonstrate our `active learning approach` using `a biomimentic sensor`, exploring `“tactile scenes” composed of shapes, textures, and objects`.
 
 ## Dataset
 | Title | Paper |
@@ -43,9 +44,16 @@
 [CVPR 2024] [[paper](https://arxiv.org/abs/2401.18084)]
 
 ### Fabric Tactile Sensation
+- **Telextiles: End-to-end Remote Transmission of Fabric Tactile Sensation** <br>
+[UIST 2023] [[paper](https://arxiv.org/abs/2405.03363)] <br>
+**Goal:** remotely transmit tactile sensations of textiles. <br>
+**Method:** we propose Telextiles, `an interface` that can remotely transmit tactile sensations of textiles by `creating a latent space` that reflects the proximity of textiles through `contrastive self-supervised learning`. <br>
+**Essence:** Fabric Recognization.
+
+
+
 | Title | Paper |
 |------|-------|
-| Telextiles: End-to-end Remote Transmission of Fabric Tactile Sensation | <https://arxiv.org/abs/2405.03363> |
 | Pinching Tactile Display: A Cloth that Changes Tactile Sensation by Electrostatic Adsorption | <https://arxiv.org/abs/2405.03358> |
 | What Matters for Active Texture Recognition With Vision-Based Tactile Sensors | <https://arxiv.org/abs/2403.13701> |
 | Exploring Human-AI Perception Alignment in Sensory Experiences: Do LLMs Understand Textile Hand? | <https://arxiv.org/abs/2406.06587> |
