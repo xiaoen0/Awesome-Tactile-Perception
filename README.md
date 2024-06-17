@@ -1,4 +1,20 @@
 # Awesome-Tactile-Perception
+## Tactile Sensor
+| Title | Paper |
+|------|-------|
+| Design of a High-Performance Tomographic Tactile Sensor by Manipulating the Detector Conductivity | <https://arxiv.org/abs/2406.00978> |
+| Optimizing Multi-Touch Textile and Tactile Skin Sensing Through Circuit Parameter Estimation | <https://arxiv.org/abs/2404.15131> |
+| RoTipBot: Robotic Handling of Thin and Flexible Objects using Rotatable Tactile Sensors | <https://arxiv.org/abs/2406.09332> |
+| Automatic Calibration for an Open-source Magnetic Tactile Sensor | <https://arxiv.org/abs/2405.18582> |
+| BeadSight: An Inexpensive Tactile Sensor Using Hydro-Gel Beads | <https://arxiv.org/abs/2405.13204> |
+| Optimizing BioTac Simulation for Realistic Tactile Perception | <https://arxiv.org/abs/2404.10425> |
+| A Novel Bioinspired Neuromorphic Vision-based Tactile Sensor for Fast Tactile Perception | <https://arxiv.org/abs/2403.10120> |
+
+## Data Collection
+- **Active Exploration for Real-Time Haptic Training**<br>
+[ICRA 2024] [[paper](https://arxiv.org/abs/2405.11776)]<br>
+**Goal**: Focusing on only the most informative aspects of an object during data collection.<br>**Method:** We demonstrate our `active learning approach` using `a biomimentic sensor`, exploring `“tactile scenes” composed of shapes, textures, and objects`.
+
 ## Dataset
 | Title | Paper |
 |------|-------|
@@ -95,18 +111,3 @@
 |------|-------|
 | Spatial Summation of Localized Pressure for Haptic Sensory Prostheses | <https://arxiv.org/abs/2404.02565> |
 
-## Tactile Sensor
-| Title | Paper |
-|------|-------|
-| Design of a High-Performance Tomographic Tactile Sensor by Manipulating the Detector Conductivity | <https://arxiv.org/abs/2406.00978> |
-| Optimizing Multi-Touch Textile and Tactile Skin Sensing Through Circuit Parameter Estimation | <https://arxiv.org/abs/2404.15131> |
-| RoTipBot: Robotic Handling of Thin and Flexible Objects using Rotatable Tactile Sensors | <https://arxiv.org/abs/2406.09332> |
-| Automatic Calibration for an Open-source Magnetic Tactile Sensor | <https://arxiv.org/abs/2405.18582> |
-| BeadSight: An Inexpensive Tactile Sensor Using Hydro-Gel Beads | <https://arxiv.org/abs/2405.13204> |
-| Optimizing BioTac Simulation for Realistic Tactile Perception | <https://arxiv.org/abs/2404.10425> |
-| A Novel Bioinspired Neuromorphic Vision-based Tactile Sensor for Fast Tactile Perception | <https://arxiv.org/abs/2403.10120> |
-
-## Data Collection
-- **Active Exploration for Real-Time Haptic Training**<br>
-[ICRA 2024] [[paper](https://arxiv.org/abs/2405.11776)]<br>
-**Goal**: Focusing on only the most informative aspects of an object during data collection.<br>**Method:** We demonstrate our `active learning approach` using `a biomimentic sensor`, exploring `“tactile scenes” composed of shapes, textures, and objects`.
