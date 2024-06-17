@@ -35,10 +35,10 @@
 
 
 ### Tactile Task Unification
-| Title | Paper |
-|------|-------|
-| Active Exploration for Real-Time Haptic Training | <https://arxiv.org/abs/2405.11776> |
-| Binding Touch to Everything: Learning Unified Multimodal Tactile Representations | <https://arxiv.org/abs/2401.18084> |
+| Publication | Title | Paper | Code | Note |
+|------|------|-------|-------|-------|
+| ICRA 2024 | Active Exploration for Real-Time Haptic Training | <https://arxiv.org/abs/2405.11776> | ? | **Goal**: Focusing on only the most informative aspects of an object during data collection.<br>**Method:** We demonstrate our _active learning approach_ using _a biomimentic sensor_, exploring _“tactile scenes” composed of shapes, textures, and objects_. |
+| CVPR 2024 | Binding Touch to Everything: Learning Unified Multimodal Tactile Representations | <https://arxiv.org/abs/2401.18084> | None | |
 
 ### Fabric Tactile Sensation
 | Title | Paper |
