@@ -47,6 +47,7 @@
 | Telextiles: End-to-end Remote Transmission of Fabric Tactile Sensation | <https://arxiv.org/abs/2405.03363> |
 | Pinching Tactile Display: A Cloth that Changes Tactile Sensation by Electrostatic Adsorption | <https://arxiv.org/abs/2405.03358> |
 | What Matters for Active Texture Recognition With Vision-Based Tactile Sensors | <https://arxiv.org/abs/2403.13701> |
+| Exploring Human-AI Perception Alignment in Sensory Experiences: Do LLMs Understand Textile Hand? | <https://arxiv.org/abs/2406.06587> |
 
 ### Object Recognition
 | Title | Paper |
