@@ -7,7 +7,6 @@
 | RoTipBot: Robotic Handling of Thin and Flexible Objects using Rotatable Tactile Sensors | <https://arxiv.org/abs/2406.09332> |
 | Automatic Calibration for an Open-source Magnetic Tactile Sensor | <https://arxiv.org/abs/2405.18582> |
 | BeadSight: An Inexpensive Tactile Sensor Using Hydro-Gel Beads | <https://arxiv.org/abs/2405.13204> |
-| BeadSight: An Inexpensive Tactile Sensor Using Hydro-Gel Beads | <https://arxiv.org/abs/2405.13204> |
 | Optimizing BioTac Simulation for Realistic Tactile Perception | <https://arxiv.org/abs/2404.10425> |
 | A Novel Bioinspired Neuromorphic Vision-based Tactile Sensor for Fast Tactile Perception | <https://arxiv.org/abs/2403.10120> |
 
