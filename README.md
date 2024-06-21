@@ -24,7 +24,10 @@
 | PseudoTouch: Efficiently Imaging the Surface Feel of Objects for Robotic Manipulation | <https://arxiv.org/abs/2403.15107> |
 | Octopi: Object Property Reasoning with Large Tactile-Language Models | <https://arxiv.org/abs/2405.02794> |
 
-
+## Simulation
+| Title | Paper |
+|------|-------|
+| Soft Contact Simulation and Manipulation Learning of Deformable Objects with Vision-based Tactile Sensor | <https://arxiv.org/abs/2405.07237v1> |
 
 ## Application
 ### Multimodal Unification
