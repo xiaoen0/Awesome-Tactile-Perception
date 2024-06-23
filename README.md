@@ -2,6 +2,7 @@
 ## Tactile Sensor
 | Title | Paper |
 |------|-------|
+| When Vision Meets Touch: A Contemporary Review for Visuotactile Sensors from the Signal Processing Perspective | <https://arxiv.org/abs/2406.12226> |
 | Design of a High-Performance Tomographic Tactile Sensor by Manipulating the Detector Conductivity | <https://arxiv.org/abs/2406.00978> |
 | Optimizing Multi-Touch Textile and Tactile Skin Sensing Through Circuit Parameter Estimation | <https://arxiv.org/abs/2404.15131> |
 | RoTipBot: Robotic Handling of Thin and Flexible Objects using Rotatable Tactile Sensors | <https://arxiv.org/abs/2406.09332> |
@@ -9,6 +10,7 @@
 | BeadSight: An Inexpensive Tactile Sensor Using Hydro-Gel Beads | <https://arxiv.org/abs/2405.13204> |
 | Optimizing BioTac Simulation for Realistic Tactile Perception | <https://arxiv.org/abs/2404.10425> |
 | A Novel Bioinspired Neuromorphic Vision-based Tactile Sensor for Fast Tactile Perception | <https://arxiv.org/abs/2403.10120> |
+
 
 ## Data Collection
 - **Active Exploration for Real-Time Haptic Training**<br>
@@ -45,6 +47,10 @@
 ### Tactile Task Unification
 - **Binding Touch to Everything: Learning Unified Multimodal Tactile Representations**<br>
 [CVPR 2024] [[paper](https://arxiv.org/abs/2401.18084)]
+
+| Title | Paper |
+|------|-------|
+| Transferable Tactile Transformers for Representation Learning Across Diverse Sensors and Tasks | <https://arxiv.org/abs/2406.13640> |
 
 ### Fabric Tactile Sensation
 - **Telextiles: End-to-end Remote Transmission of Fabric Tactile Sensation** <br>
@@ -101,6 +107,14 @@
 | Low-Cost Teleoperation with Haptic Feedback through Vision-based Tactile Sensors for Rigid and Soft Object Manipulation | <https://arxiv.org/abs/2403.16764> |
 | Visuo-Tactile Pretraining for Cable Plugging | <https://arxiv.org/abs/2403.11898> |
 | Visuo-Tactile Keypoint Correspondences for Object Manipulation | <https://arxiv.org/abs/2405.14515> |
+
+### Virtual Reality
+| Title | Paper |
+|------|-------|
+| Comparing the Effects of Visual, Haptic, and Visuohaptic Encoding on Memory Retention of Digital Objects in Virtual Reality | <https://arxiv.org/abs/2406.14139> |
+| Haptic Repurposing with GenAI | <https://arxiv.org/abs/2406.07228> |
+| Towards Robotic Haptic Proxies in Virtual Reality | <https://arxiv.org/abs/2406.04491> |
+
 
 ### In-Hand Object Rotation
 | Title | Paper |
