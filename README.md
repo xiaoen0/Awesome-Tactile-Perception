@@ -18,10 +18,14 @@
 **Goal**: Focusing on only the most informative aspects of an object during data collection.<br>
 **Method:** We demonstrate our `active learning approach` using `a biomimentic sensor`, exploring `“tactile scenes” composed of shapes, textures, and objects`.
 
+
 ## Dataset
+- **Tactile-Augmented Radiance Fields**<br>
+[CVPR 2024] [[paper](https://arxiv.org/abs/2405.04534)]<br>
+**Goal**: Learning a scene representation
+
 | Title | Paper |
 |------|-------|
-| Tactile-Augmented Radiance Fields | <https://arxiv.org/abs/2405.04534> |
 | Learning Visuotactile Skills with Two Multifingered Hands | <https://arxiv.org/abs/2404.16823> |
 | PseudoTouch: Efficiently Imaging the Surface Feel of Objects for Robotic Manipulation | <https://arxiv.org/abs/2403.15107> |
 | Octopi: Object Property Reasoning with Large Tactile-Language Models | <https://arxiv.org/abs/2405.02794> |
@@ -88,6 +92,10 @@
 |------|-------|
 | Stable Object Placing using Curl and Diff Features of Vision-based Tactile Sensors | <https://arxiv.org/abs/2403.19129> |
 
+### Object Compliance
+| Title | Paper |
+|------|-------|
+| Learning Object Compliance via Young's Modulus from Single Grasps with Camera-Based Tactile Sensors | <https://arxiv.org/abs/2406.15304> |
 
 ### Geometry Reconstructions
 | Title | Paper |
