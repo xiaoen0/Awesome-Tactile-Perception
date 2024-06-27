@@ -110,6 +110,12 @@
 | Application of Artificial Intelligence in Hand Gesture Recognition with Virtual Reality: Survey and Analysis of Hand Gesture Hardware Selection | <https://arxiv.org/abs/2405.16264> |
 
 ### Object Manipulation
+- masked Visual-Tactile Pre-training for robot manipulation <br>
+[ICRA 2024] [[blog post](https://mp.weixin.qq.com/s/EWd3PPaTatOYrnPRezxZsw)] <br>
+**Task**: bottle-cap turning <br>
+**Visual-Tactile Acquistion System**: for bottle-cap turning dataset. <br>
+**Method**: `MAE` + `MDP` <br>
+
 | Title | Paper |
 |------|-------|
 | Low-Cost Teleoperation with Haptic Feedback through Vision-based Tactile Sensors for Rigid and Soft Object Manipulation | <https://arxiv.org/abs/2403.16764> |
