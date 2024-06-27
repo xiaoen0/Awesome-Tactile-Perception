@@ -113,7 +113,7 @@
 - masked Visual-Tactile Pre-training for robot manipulation <br>
 [ICRA 2024] [[blog post](https://mp.weixin.qq.com/s/EWd3PPaTatOYrnPRezxZsw)] <br>
 **Task**: bottle-cap turning <br>
-**Visual-Tactile Acquistion System**: for bottle-cap turning dataset. <br>
+**Dataset**: visual-tactile acquistion system <br>
 **Method**: `MAE` + `MDP` <br>
 
 | Title | Paper |
