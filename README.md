@@ -2,7 +2,6 @@
 ## Tactile Sensor
 | Title | Paper |
 |------|-------|
-| *Low Fidelity Visuo-Tactile Pretraining Improves Vision-Only Manipulation Performance | <https://arxiv.org/abs/2406.15639> |
 | When Vision Meets Touch: A Contemporary Review for Visuotactile Sensors from the Signal Processing Perspective | <https://arxiv.org/abs/2406.12226> |
 | Design of a High-Performance Tomographic Tactile Sensor by Manipulating the Detector Conductivity | <https://arxiv.org/abs/2406.00978> |
 | Optimizing Multi-Touch Textile and Tactile Skin Sensing Through Circuit Parameter Estimation | <https://arxiv.org/abs/2404.15131> |
@@ -117,6 +116,9 @@
 **Task**: bottle-cap turning <br>
 **Dataset**: a bottle-cap turning dataset by visual-tactile acquistion system <br>
 **Method**: `MAE` + `MDP` <br>
+- Low Fidelity Visuo-Tactile Pretraining Improves Vision-Only Manipulation Performance <br>
+[[paper](https://arxiv.org/abs/2406.15639)] <br>
+**Task**: USB cable plugging <br>
 
 | Title | Paper |
 |------|-------|
