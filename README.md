@@ -2,6 +2,7 @@
 ## Tactile Sensor
 | Title | Paper |
 |------|-------|
+| *Low Fidelity Visuo-Tactile Pretraining Improves Vision-Only Manipulation Performance | <https://arxiv.org/abs/2406.15639> |
 | When Vision Meets Touch: A Contemporary Review for Visuotactile Sensors from the Signal Processing Perspective | <https://arxiv.org/abs/2406.12226> |
 | Design of a High-Performance Tomographic Tactile Sensor by Manipulating the Detector Conductivity | <https://arxiv.org/abs/2406.00978> |
 | Optimizing Multi-Touch Textile and Tactile Skin Sensing Through Circuit Parameter Estimation | <https://arxiv.org/abs/2404.15131> |
@@ -74,6 +75,7 @@
 ### Object Recognition
 | Title | Paper |
 |------|-------|
+| SonicSense: Object Perception from In-Hand Acoustic Vibration | <https://arxiv.org/abs/2406.17932> |
 | Imagine2touch: Predictive Tactile Sensing for Robotic Manipulation using Efficient Low-Dimensional Signals | <https://arxiv.org/abs/2405.01192> |
 | Visuo-Tactile based Predictive Cross Modal Perception for Object Exploration in Robotics | <https://arxiv.org/abs/2405.12634> |
 
