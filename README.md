@@ -23,12 +23,17 @@
 - **Tactile-Augmented Radiance Fields**<br>
 [CVPR 2024] [[paper](https://arxiv.org/abs/2405.04534)]<br>
 **Goal**: Learning a scene representation
+- **Octopi: Object Property Reasoning with Large Tactile-Language Models** <br>
+[RSS 2024] [[paper](https://arxiv.org/abs/2405.02794)] <br>
+Object Property Reasoning == Physical Property Reasoning <br>
+**Dataset**: contribute the PHYSICLEAR dataset, which comprises `GelSight images` on a variety of real world objects, along with `object labels` and `part annotations`. Three physical property annotations: hardness, roughness, and bumpiness. PHYSICLEAR also includes an training and evaluation suite comprising `five reasoning tasks`, which can serve as a `benchmark` for the research community. <br>
+Five tactile-related reasoning tasks: 
+
 
 | Title | Paper |
 |------|-------|
 | Learning Visuotactile Skills with Two Multifingered Hands | <https://arxiv.org/abs/2404.16823> |
 | PseudoTouch: Efficiently Imaging the Surface Feel of Objects for Robotic Manipulation | <https://arxiv.org/abs/2403.15107> |
-| Octopi: Object Property Reasoning with Large Tactile-Language Models | <https://arxiv.org/abs/2405.02794> |
 
 ## Simulation
 | Title | Paper |
@@ -52,9 +57,12 @@
 - **Binding Touch to Everything: Learning Unified Multimodal Tactile Representations**<br>
 [CVPR 2024] [[paper](https://arxiv.org/abs/2401.18084)]
 
+
+### Cross-Sensor
 | Title | Paper |
 |------|-------|
 | Transferable Tactile Transformers for Representation Learning Across Diverse Sensors and Tasks | <https://arxiv.org/abs/2406.13640> |
+
 
 ### Fabric Tactile Sensation
 - **Telextiles: End-to-end Remote Transmission of Fabric Tactile Sensation** <br>
@@ -117,7 +125,7 @@
 **Dataset**: a bottle-cap turning dataset by visual-tactile acquistion system <br>
 **Method**: `MAE` + `MDP` <br>
 - Low Fidelity Visuo-Tactile Pretraining Improves Vision-Only Manipulation Performance <br>
-[[paper](https://arxiv.org/abs/2406.15639)] <br>
+[[paper](https://arxiv.org/abs/2406.15639)] [[code](https://github.com/selamie/beadsight)] <br>
 **Task**: USB cable plugging <br>
 
 | Title | Paper |
