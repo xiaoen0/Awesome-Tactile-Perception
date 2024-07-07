@@ -124,14 +124,17 @@
 | Application of Artificial Intelligence in Hand Gesture Recognition with Virtual Reality: Survey and Analysis of Hand Gesture Hardware Selection | <https://arxiv.org/abs/2405.16264> |
 
 ### Object Manipulation
-- masked Visual-Tactile Pre-training for robot manipulation <br>
+- **masked Visual-Tactile Pre-training for robot manipulation** <br>
 [ICRA 2024] [[blog post](https://mp.weixin.qq.com/s/EWd3PPaTatOYrnPRezxZsw)] <br>
 **Task**: bottle-cap turning <br>
 **Dataset**: a bottle-cap turning dataset by visual-tactile acquistion system <br>
 **Method**: `MAE` + `MDP` <br>
-- Low Fidelity Visuo-Tactile Pretraining Improves Vision-Only Manipulation Performance <br>
+- **Low Fidelity Visuo-Tactile Pretraining Improves Vision-Only Manipulation Performance** <br>
 [[paper](https://arxiv.org/abs/2406.15639)] [[code](https://github.com/selamie/beadsight)] <br>
 **Task**: USB cable plugging <br>
+- **RoboPack: Learning Tactile-Informed Dynamics Models for Dense Packing** <br>
+[RSS 2024] [[paper](https://arxiv.org/abs/2407.01418)] <br>
+**Task**: dense packing
 
 | Title | Paper |
 |------|-------|
