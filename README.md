@@ -60,7 +60,10 @@
 
 ### Tactile Task Unification
 - **Binding Touch to Everything: Learning Unified Multimodal Tactile Representations**<br>
-[CVPR 2024] [[paper](https://arxiv.org/abs/2401.18084)]
+[CVPR 2024] [[paper](https://arxiv.org/abs/2401.18084)] <br>
+**Image Synthesis Tasks with Touch**: `touch-to-image generation`,  `tactile-driven image stylization`. `Model`: UniTouch representation + text-to-image diffusion model. `Metrics`: FID, CVTP. 
+- **Generating Visual Scenes from Touch** <br>
+[ICCV 2023] [[paper](https://arxiv.org/abs/2309.15117)] 
 
 
 ### Cross-Sensor
