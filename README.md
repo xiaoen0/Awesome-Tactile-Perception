@@ -5,6 +5,9 @@
 
 
 ## Tactile Sensor
+- **Deep Domain Adaptation Regression for Force Calibration of Optical Tactile Sensors** <br>
+[[paper](https://arxiv.org/abs/2407.14380)]
+
 | Title | Paper |
 |------|-------|
 | When Vision Meets Touch: A Contemporary Review for Visuotactile Sensors from the Signal Processing Perspective | <https://arxiv.org/abs/2406.12226> |
