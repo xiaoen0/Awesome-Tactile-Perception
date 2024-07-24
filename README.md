@@ -29,7 +29,7 @@
 
 ## Dataset
 - **Octopi: Object Property Reasoning with Large Tactile-Language Models** <br>
-[RSS 2024] [[paper](https://arxiv.org/abs/2405.02794)] <br>
+[RSS 2024] [[paper](https://arxiv.org/abs/2405.02794)] [[code](https://github.com/clear-nus/octopi)]<br>
 `Object Property Reasoning == Physical Property Reasoning`. Generally, static physical properties of objects are categorized into geometric (e.g., size), material (e.g., hardness), and affective (e.g., comfort). <br>
 **Dataset**: contribute the PHYSICLEAR dataset, which comprises `GelSight images` on a variety of real world objects, along with `object labels` and `part annotations`. `Three physical property annotations`: hardness, roughness, and bumpiness. PHYSICLEAR also includes an training and evaluation suite comprising `five reasoning tasks`, which can serve as a `benchmark` for the research community. <br>
 **Traing & Evaluation Suite**: comprises five physical reasoning tasks.
