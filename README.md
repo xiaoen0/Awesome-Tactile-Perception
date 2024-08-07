@@ -50,6 +50,11 @@
 
 ## Application
 ### Multimodal Unification
+**A Case Study on Visual-Audio-Tactile Cross-Modal Retrieval** <br>
+[IROS2024] [[paper](https://arxiv.org/abs/2407.20709)] 🌟
+
+
+
 | Title | Paper |
 |------|-------|
 | OmniBind: Teach to Build Unequal-Scale Modality Interaction for Omni-Bind of All | <https://arxiv.org/abs/2405.16108> |
@@ -98,9 +103,12 @@
 | Visuo-Tactile based Predictive Cross Modal Perception for Object Exploration in Robotics | <https://arxiv.org/abs/2405.12634> |
 
 ### Tactile Texture Recognition
-| Title | Paper |
-|------|-------|
-| An Active Learning Framework with a Class Balancing Strategy for Time Series Classification | <https://arxiv.org/abs/2405.12122> |
+- **TEXasGAN: Tactile Texture Exploration and Synthesis System Using Generative Adversarial Network** <br>
+[[paper](https://arxiv.org/abs/2407.11467)]
+- **An Active Learning Framework with a Class Balancing Strategy for Time Series Classification** <br>
+[[paper](https://arxiv.org/abs/2405.12122)]
+
+
 
 ### Action Classification
 | Title | Paper |
